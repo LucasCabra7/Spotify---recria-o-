@@ -1,0 +1,42 @@
+
+.sidebar nav ul li a:hover{
+    color:var(--color-white);
+    transition: 0.4s;
+}
+
+.library .library__content .library__button .fa:hover{
+    transition: 0.4s;
+    color: #ff0000;
+}
+
+.library .library__content .library__button .fa .biblio:hover{
+    transition: 0.4s;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+.library .library__content .fa-plus:hover{
+    transition: 0.4s;
+    background-color: #272727;
+    color: #ff0000;
+}
+
+.languages .languages__button:hover{
+    color: #ff0000;
+    border: 2px solid #ff0000;
+}
+
+.section-playlist .section-playlist__button:hover{
+    background-color: #a7a7a7;
+    transition: 0.4s;
+}
+
+.header__login .subscribe:hover{
+    color: #ff0000;
+    transition: 0.4s;
+}
+
+.header__login .login:hover{
+    background-color: #ff0000;
+    transition: 0.4s;
+}
